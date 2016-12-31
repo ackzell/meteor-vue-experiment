@@ -9,7 +9,7 @@ The app itself was built using the code from [https://github.com/Akryum/meteor-v
 1. Make sure you have [Meteor](https://www.meteor.com/install) installed locally.
 2. Clone this repo (and cd into the new folder):
 
-    `$ git clone git@github.com:ackzell/meteor-vue-experiment.git && cd meteor-vue-experiment`
+    `$ git clone https://github.com/ackzell/meteor-vue-experiment.git && cd meteor-vue-experiment`
 
 3. Install the `npm` dependencies
 
