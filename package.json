@@ -6,10 +6,12 @@
   },
   "dependencies": {
     "babel-runtime": "6.18.0",
+    "marker-clusterer-plus": "^2.1.4",
     "meteor-node-stubs": "~0.2.0",
-    "vue": "^2.1.6",
+    "vue": "^2.1.10",
     "vue-meteor-tracker": "^1.0.3",
-    "vue-router": "^2.0.0-rc.5"
+    "vue-router": "^2.0.0-rc.5",
+    "vue2-google-maps": "^0.5.3"
   },
   "devDependencies": {}
 }

@@ -4,8 +4,11 @@ import router from '/imports/routes';
 
 import AppLayout from '/imports/ui/AppLayout.vue';
 
+
+
 // App start
 Meteor.startup(() => {
+
   // Start the router
   new Vue({
     router: router.start(),
